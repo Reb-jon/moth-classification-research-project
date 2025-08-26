@@ -146,7 +146,7 @@ pytorch-grad-cam>=1.3.0
 - tables/: Performance metrics, confusion matrices, and result summaries
 - cam_outputs/: Score-CAM and Grad-CAM++ attention visualisations
 - notebooks/: Complete analysis pipeline with results
-- 
+  
 ## Citation
 If you use this repository, please cite it as:
 
@@ -156,6 +156,6 @@ Rebecca Jones. (2025). *Deep Learning Approaches for Moth Species Classification
 This project is for academic purposes. Dataset usage is subject to original licensing terms.
 
 ## Acknowledgments
-Supervisor: Professor David Topping
-Dataset: Gerry's Moths Image Dataset (Kaggle)
-University of Manchester School of Social Sciences
+- Supervisor: Professor David Topping
+- Dataset: Gerry's Moths Image Dataset (Kaggle)
+- University of Manchester School of Social Sciences
