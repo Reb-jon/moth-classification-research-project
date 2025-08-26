@@ -1,4 +1,4 @@
-name: moth-classification-research-project
+name: moth-classification
 channels:
   - conda-forge
   - defaults
