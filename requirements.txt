@@ -1,0 +1,30 @@
+# Core Deep Learning 
+torch==2.6.0+cpu
+torchvision==0.21.0+cpu
+timm==1.0.16
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# Data Manipulation and Analysis
+pandas==2.2.2
+
+# Visualisation
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Image Processing
+pillow==10.3.0
+opencv-python==4.12.0.88
+
+# Model Interpretability
+pytorch-grad-cam==1.5.5
+
+# Progress bars
+tqdm==4.66.4
+
+# Jupyter
+jupyter==1.0.0
+jupyterlab==4.0.11
+
+# Configuration
+pyyaml==6.0.1
