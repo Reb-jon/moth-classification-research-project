@@ -1,4 +1,6 @@
 ## Deep Learning Approaches for Moth Species Classification and Conservation Monitoring
+[![DOI](https://zenodo.org/badge/1001463270.svg)](https://doi.org/10.5281/zenodo.16949893)
+
 This repository contains the code, results, and visualisations for the MSc Data Science Extended Research Project at the University of Manchester investigating automated moth species classification using deep learning architectures.
 
 ### Project Overview
@@ -150,7 +152,7 @@ pytorch-grad-cam>=1.3.0
 ## Citation
 If you use this repository, please cite it as:
 
-Rebecca Jones. (2025). *Deep Learning Approaches for Moth Species Classification and Conservation Monitoring*. MSc Thesis Project, University of Manchester. GitHub: https://github.com/Reb-jon/moth-classification-research-project
+Rebecca Jones. (2025). *Deep Learning Approaches for Moth Species Classification and Conservation Monitoring* (v1.0.1). University of Manchester. Zenodo. https://doi.org/10.5281/zenodo.16949894
 
 ## License
 This project is for academic purposes. Dataset usage is subject to original licensing terms.
