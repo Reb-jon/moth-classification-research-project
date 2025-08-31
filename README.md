@@ -36,7 +36,7 @@ moth-classification-research-project/
 │   ├── vit_b16_ft/                                      # ViT-B/16 Fine-tuned: Score-CAM (optimisation stages)
 │   ├── coat_lite/                                       # CoaT-Lite Medium Baseline: Score-CAM (baseline)
 │   └── coat_lite_ft/                                    # CoaT-Lite Medium Fine-tuned: Score-CAM (optimisation stages)
-├── data/                              # Dataset directory
+├── data/                              # Local dataset directory (not included in repo)
 │   └── kaggle-dataset/                                  # Moth images dataset
 ├── requirements.txt                   # Python dependencies
 ├── environment.yml                    # Conda environment
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 ```
 ## Dataset Setup
 
-This project uses one dataset. Please download the dataset manually and place it in the `data/` folder.
+This project uses one dataset. Note: The `data/` folder is not included in this repository, therefore you must create `data/kaggle-dataset/` manually before running the notebooks. The kaggle-dataset folder is where you will place the moth dataset.
 
 ### 1. Kaggle Moths Dataset
 - Source: [Kaggle - Moths Image Dataset](https://www.kaggle.com/datasets/gpiosenka/moths-image-datasetclassification)
